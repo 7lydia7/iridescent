@@ -54,7 +54,7 @@
 | IEEE Sensors Journal             | [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361)                                           | [submit](https://mc.manuscriptcentral.com/sensors)                            | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=3352)    |   2区   |
 | IEEE Access                           | [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)                                           | [submit](https://mc.manuscriptcentral.com/ieee-access)                            | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=10017)    |   2区   |
 |  MDPI               |  [MDPI](https://www.mdpi.com/) | [Open journals](https://www.mdpi.com/about/journals)   |  | -   |
-| Electronics Letters                   | [Electronics Letters](http://www.ietdl.org/EL)                                      | [submit](http://mc.manuscriptcentral.com/iet/ell)    | [letpub](http://www.letpub.com.cn/index.php?journalid=2463&page=journalapp&view=detail)     |   4区   |
+| Electronics Letters                   | [Electronics Letters](http://www.ietdl.org/EL)                                      | [submit](https://mc.manuscriptcentral.com/theiet-el)    | [letpub](http://www.letpub.com.cn/index.php?journalid=2463&page=journalapp&view=detail)     |   4区   |
 
 
 ## New
